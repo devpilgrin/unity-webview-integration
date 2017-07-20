@@ -1,12 +1,13 @@
-### 概要
+### Аннотация
 
-Unity iOS および Android において web view を画面内に組み込み、その内部と連携を行うためのプラグインの実装例です。
 
-![screenshot](https://github.com/downloads/keijiro/unity-webview-integration/IMG_0004.jpg)
+Unity3D WebView плагин для iOS и Android, для отображение данных в html формате, по верх основного окна приложения.
 
-上図は実装されたサンプルシーンを実行した様子です。上部が Unity の画面で、下部が web view です。Web view 内のリンクをクリックすることにより Unity 画面内で特定のアクションが発動されます。
+![Скриншот](IMG_0004.jpg)
 
-### 簡単な解説
+На рисунке показано 
+
+### Краткий комментарий
 
 #### Unity 側
 
